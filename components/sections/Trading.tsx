@@ -5,7 +5,7 @@ const TRADING_DATA: TradingCardData[] = [
   {
     title: "Metals",
     image:
-      "https://images.unsplash.com/photo-1612832021060-1e3f5b8c4f9e?q=80&w=1800&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1671404910386-8c2a9ae40efd?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     imageAlt: "Copper and aluminium metal coils in an industrial facility",
     description:
       "Ferrous and Non-Ferrous Metals: We trade in Copper, Aluminium, Nickel, Zinc, and Steel, both primary and scrap forms.",
@@ -30,7 +30,7 @@ const TRADING_DATA: TradingCardData[] = [
   {
     title: "Minerals",
     image:
-      "",
+      "https://images.unsplash.com/photo-1600363503477-a8d1d6d57dfc?q=80&w=1122&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     imageAlt: "Coal and mineral stockpiles at an industrial mining site",
     description:
       "Sourcing coal and iron ore from key global markets to supply steel manufacturing and power generation industries.",
