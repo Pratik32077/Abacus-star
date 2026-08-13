@@ -36,8 +36,8 @@ const SERVICES_DATA: ServiceCardData[] = [
     image:
       "https://images.unsplash.com/photo-1521737604893-d14cc237f11d?q=80&w=1800&auto=format&fit=crop",
     imageAlt: "Professional workforce collaborating in a corporate setting",
-    pointsLabel: "Key Benefits",
-    points: ["Cost Optimisation", "Reduced Transit Time", "Real-Time Monitoring"],
+    pointsLabel: "Core Services",
+    points: ["Workforce Sourcing", "Recruitment Support", "HR Administration", "Payroll & Employee Management"],
   },
 ];
 

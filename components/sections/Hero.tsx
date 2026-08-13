@@ -73,7 +73,7 @@ export function Hero() {
           transition={{ duration: 0.8, delay: 0.5, ease: easing }}
           className="text-4xl sm:text-6xl md:text-7xl font-extrabold text-white leading-[1.05] tracking-tight max-w-3xl text-balance"
         >
-          Welcome to <span className="text-brand-red">Abacus Star</span>
+          Global Trade. Business Solutions. <span className="text-brand-red">One Partner.</span>
         </motion.h1>
 
         <motion.p
@@ -82,15 +82,7 @@ export function Hero() {
           transition={{ duration: 0.8, delay: 0.68, ease: easing }}
           className="mt-6 max-w-2xl text-white/80 text-base sm:text-lg leading-relaxed"
         >
-          Abacus Star General Trading LLC is a multi-industry business specializing
-          in global trading, IT solutions, and financial consultancy. We are your
-          trusted partner in the intricate world of global trade. With a robust
-          portfolio spanning various industries, we specialize in importing and
-          exporting metals such as Copper and Aluminium, minerals, trading coal and
-          agricultural commodities, and offering a wide array of electronic goods.
-          Complemented by our comprehensive suite of services including Management,
-          Consultancy, and IT solutions, we are dedicated to empowering businesses
-          with seamless operations and strategic insights.
+          Abacus Star connects businesses with commodities, industrial products, and commercial solutions across international markets.
         </motion.p>
 
         <motion.div

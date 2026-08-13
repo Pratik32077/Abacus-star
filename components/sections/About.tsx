@@ -31,14 +31,7 @@ export function About() {
           </h2>
           <span className="block h-[3px] w-16 bg-brand-red mt-6 mb-7" />
           <p className="text-brand-gray text-base sm:text-lg leading-relaxed">
-            At Abacus Star General Trading LLC, we are your trusted partner in the
-            intricate world of global trade. With a robust portfolio spanning
-            various industries, we specialize in importing and exporting metals
-            such as Copper and Aluminium, minerals, trading coal and agricultural
-            commodities, and offering a wide array of electronic goods.
-            Complemented by our comprehensive suite of services including
-            Management, Consultancy, and IT solutions, we are dedicated to
-            empowering businesses with seamless operations and strategic insights.
+            With decades of experience in international trade, Abacus Star delivers complete business solutions from supply chain optimization to strategic consultancy. Our global network of suppliers and logistics partners ensures reliable sourcing and timely delivery of commodities, whether you need industrial metals, minerals, or enterprise-level services. We combine market expertise, operational excellence, and transparent partnerships to help your business thrive in competitive global markets.
           </p>
 
           <div className="mt-10 grid grid-cols-1 sm:grid-cols-3 gap-4">
@@ -79,8 +72,8 @@ export function About() {
               className="absolute inset-0"
             >
               <Image
-                src="https://images.unsplash.com/photo-1521791136064-7986c2920216?q=80&w=1800&auto=format&fit=crop"
-                alt="Global business professionals reviewing international trade operations"
+                src="https://images.unsplash.com/photo-1552664730-d307ca884978?q=80&w=1800&auto=format&fit=crop"
+                alt="Professional business operations and international trading activities"
                 fill
                 className="object-cover"
                 sizes="(max-width: 1024px) 100vw, 50vw"

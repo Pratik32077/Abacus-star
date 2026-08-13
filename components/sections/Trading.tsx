@@ -75,7 +75,7 @@ export function Trading() {
         <SectionHeading
           eyebrow="What We Trade"
           heading="Trading"
-          intro="We specialize in the trading of ferrous and non-ferrous metals, minerals, and commodities, ensuring high-quality sourcing and supply chain efficiency."
+          intro="Our trading portfolio spans metals, minerals, industrial commodities and electronics, sourced through an international network of suppliers and delivered across global markets."
         />
 
         <div className="mt-14 grid grid-cols-1 md:grid-cols-3 gap-7">
